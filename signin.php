@@ -15,7 +15,7 @@
             <div class="shadow rounded-sign col-lg-10 col-xl-9 card flex-row mx-auto px-0">
                 <div class="card-body">
                     <div class="border-bottom-0 p-3">
-                        <a href="index.html" class="text-decoration-none text-reset"><h2 class="fw-bold mx-3 mb-0 b-left px-2 text-nowrap">E-classe</h2></a>
+                        <a href="index.php" class="text-decoration-none text-reset"><h2 class="fw-bold mx-3 mb-0 b-left px-2 text-nowrap">E-classe</h2></a>
                     </div>
                     <div class="text-center py-3">
                         <h5 class="fw-bold mb-0">SIGN IN</h5>
